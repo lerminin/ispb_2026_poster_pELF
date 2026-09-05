@@ -4,6 +4,8 @@ This repository hosts my poster for the [International Symposium on Plasmid Biol
 
 To view the PDF poster, click [here](ISPB_2026_Lerminiaux_pELF_poster.pdf).
 
+To view the medRxiv pre-print associated with this poster, click [here](https://www.medrxiv.org/content/10.64898/2026.05.08.26352429v1).
+
 ## Poster abstract
 
 **Linear plasmid prevalence and linezolid resistance gene carriage in vancomycin-resistant *Enterococcus* in Canada from 2009-2024**
